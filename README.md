@@ -2,6 +2,8 @@
 
 Creates shortcut file with an icon for any website given the name and url of website.
 
+Requires: pip install pillow
+
 # How to use 
 
 1. Create a "dirs.txt" file with locations to create a shortcut, e.g "C:\Users\Default\Desktop" to add to desktop
